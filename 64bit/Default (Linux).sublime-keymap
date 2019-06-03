@@ -1,0 +1,11 @@
+[
+	{ "keys": ["ctrl+alt+b"], "command": "run_existing_window_command", "args":
+		{"id": "repl_python_run", "file": "config/Python/Main.sublime-menu"}},
+	{"keys": ["ctrl+alt+w"], "command": "toggle_setting","args":
+		{"setting": "word_wrap"}},
+	{ "keys": ["ctrl+shift+}"], "command": "indent" },
+	{ "keys": ["ctrl+shift+{"], "command": "unindent" },
+	{ "keys": ["ctrl+alt+'"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+alt+shift+'"], "command": "toggle_comment", "args": { "block": true } }
+
+]
