@@ -9,9 +9,6 @@
 My personal settings in 32bit and 64bit.
 ```sh
 HEAD
-	* User Settings in Sublime Text 3.
-	* User keyboard shortcut.
-	* List of packages installed in sublime text 3 so far and personals packages settings.
 =======
   * User Settings in Sublime Text 3.
   * User keyboard shortcut.
