@@ -3,12 +3,12 @@
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png)
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Breezeicons-apps-48-sublime-text.svg/240px-Breezeicons-apps-48-sublime-text.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Breezeicons-apps-48-sublime-text.svg/240px-Breezeicons-apps-48-sublime-text.svg.png)
 
-My personal settings in 32bit and 64bit.
+My personal settings in 64bit.
 
 ```sh
 HEAD
 =======
-  * User Settings in Sublime Text 3.
+  * User Settings in Sublime Text.
   * User keyboard shortcut.
-  * List of packages installed in sublime text 3 so far and personals packages settings.
+  * List of packages installed in sublime text so far and personals packages settings.
 ```
