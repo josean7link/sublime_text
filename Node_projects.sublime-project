@@ -22,11 +22,31 @@
     [
         { // Wallet src
             "name": "Wallet src",
-            "path": "alfred-wallet/src"
+            "path": "/home/Josean/Scripts/nodejs/Alfred-Wallet-Testing/src"
         },
         { // Wallet Base-dir
             "name": "Wallet Base-dir",
-            "path": "alfred-wallet"
+            "path": "/home/Josean/Scripts/nodejs/Alfred-Wallet-Testing"
+        },
+        { // Plaid src
+            "name": "Plaid src",
+            "path": "/home/Josean/Scripts/nodejs/Plaid/frontend/src",
+            "folder_exclude_patterns" : [
+                "ruby", "go", "java"
+            ],
+            "file_exclude_patterns": [
+                "*ignore", "*ocker*", "LICENSE", "Makefile", "README.md"
+            ],
+        },
+        { // Plaid Base-dir
+            "name": "Plaid Base-dir",
+            "path": "/home/Josean/Scripts/nodejs/Plaid/frontend",
+            "folder_exclude_patterns" : [
+                "ruby", "go", "java"
+            ],
+            "file_exclude_patterns": [
+                "*ignore", "*ocker*", "LICENSE", "Makefile", "README.md"
+            ],
         },
     ]
 }
