@@ -1,0 +1,35 @@
+{
+    "build_systems":
+    [
+        {
+            "cmd":
+            [
+                "/usr/bin/python3.8",
+                "-u",
+                "$file"
+            ],
+            "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+            "selector": "source.python",
+        }
+    ],
+    "folders":
+    [
+        {
+            "name": "API",
+            "path": "API/backend/src",
+        },
+        {
+            "name": "Cripto_back",
+            "path": "Cripto/backend/src",
+        },
+        {
+            "name": "Cripto_NB",
+            "path": "Cripto/Notebook",
+        },
+        {
+            "name": "Jupyter_packages",
+            "path": "/home/jamartinez/Escritorio/David/site_packages",
+            "folder_include_patterns": ["bs4", "html5lib", "lxml", "matplotlib", "pandas", "PIL", "requests", "seaborn", "selenium", "setuptools"],
+        },
+    ],
+}

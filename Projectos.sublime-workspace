@@ -1,0 +1,1309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"RES",
+				"responde"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"PO",
+				"PORT"
+			],
+			[
+				"test",
+				"testing"
+			],
+			[
+				"re",
+				"response2"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"l",
+				"list1"
+			],
+			[
+				"di",
+				"dict1"
+			],
+			[
+				"lis",
+				"list1"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"d",
+				"dict1"
+			],
+			[
+				"ac",
+				"account"
+			],
+			[
+				"com",
+				"complete_interactive_deposit"
+			],
+			[
+				"se",
+				"sep24"
+			],
+			[
+				"stat",
+				"status_code"
+			],
+			[
+				"rende",
+				"render_error_response"
+			],
+			[
+				"rend",
+				"render_error_response"
+			],
+			[
+				"ren",
+				"render_error_response"
+			],
+			[
+				"er",
+				"err_resp"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"arg",
+				"args_or_error"
+			],
+			[
+				"mo",
+				"more_info_url"
+			],
+			[
+				"ass",
+				"asset"
+			],
+			[
+				"as",
+				"asset"
+			],
+			[
+				"c",
+				"currencies"
+			],
+			[
+				"asset_",
+				"asset_issuer"
+			],
+			[
+				"iss",
+				"issuing_public"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"upl",
+				"upload_to"
+			],
+			[
+				"j",
+				"jpeg"
+			],
+			[
+				"ne",
+				"newprofile"
+			],
+			[
+				"Prof",
+				"Profile"
+			],
+			[
+				"Pr",
+				"Profile"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"P",
+				"Profile"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"__d",
+				"__dict__"
+			],
+			[
+				"myu",
+				"myuser_urls"
+			],
+			[
+				"m",
+				"myuser"
+			],
+			[
+				"Pro",
+				"Profile"
+			],
+			[
+				"Use",
+				"User"
+			],
+			[
+				"DA",
+				"DATABASES"
+			],
+			[
+				"regis",
+				"registered_deposit_integration"
+			],
+			[
+				"tra",
+				"transactions"
+			],
+			[
+				"tr",
+				"transaction"
+			],
+			[
+				"r_t",
+				"r_title"
+			],
+			[
+				"s",
+				"sep10"
+			],
+			[
+				"in",
+				"integrations"
+			],
+			[
+				"te",
+				"testing_debug"
+			],
+			[
+				"testing_",
+				"testing_info"
+			],
+			[
+				"tes",
+				"testing"
+			],
+			[
+				"prue",
+				"prueba_file"
+			],
+			[
+				"po",
+				"polaris_file"
+			],
+			[
+				"logg",
+				"getLogger"
+			],
+			[
+				"leve",
+				"level"
+			],
+			[
+				"UR",
+				"url"
+			],
+			[
+				"DE",
+				"DEBUG"
+			],
+			[
+				"reques",
+				"request"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"client",
+				"client_public_key"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"ser",
+				"server_token"
+			],
+			[
+				"depos",
+				"deposito_int"
+			],
+			[
+				"g",
+				"get_deposit_interactive_2"
+			],
+			[
+				"f",
+				"file"
+			],
+			[
+				"ge",
+				"get_deposit_interactive_data"
+			],
+			[
+				"hea",
+				"headers_dict"
+			],
+			[
+				"fi",
+				"file"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"server",
+				"server_account"
+			],
+			[
+				"ad",
+				"additional_signers"
+			],
+			[
+				"al",
+				"all_signers"
+			],
+			[
+				"sin",
+				"signers"
+			],
+			[
+				"requ",
+				"requests"
+			],
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"st",
+				"status_code"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"O",
+				"OneToOneField"
+			],
+			[
+				"uni",
+				"unit2"
+			],
+			[
+				"un",
+				"unit2"
+			],
+			[
+				"las",
+				"last1d"
+			],
+			[
+				"last1",
+				"last1h"
+			],
+			[
+				"li",
+				"lista"
+			],
+			[
+				"url",
+				"url5"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"w",
+				"workerlist"
+			],
+			[
+				"wo",
+				"workers"
+			],
+			[
+				"coin",
+				"coin_type"
+			],
+			[
+				"rela",
+				"release"
+			],
+			[
+				"t",
+				"titulo"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"mi",
+				"mins"
+			],
+			[
+				"C",
+				"Check_hour"
+			],
+			[
+				"h",
+				"hora"
+			],
+			[
+				"is",
+				"is_staff"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"va",
+				"validators"
+			],
+			[
+				"Er",
+				"Error"
+			],
+			[
+				"ti",
+				"tiempo_ahora"
+			],
+			[
+				"G",
+				"Grafica"
+			],
+			[
+				"Ca",
+				"Capacidad_mercado"
+			],
+			[
+				"Ul",
+				"Ultima_semana"
+			],
+			[
+				"U",
+				"Ultima_hora"
+			],
+			[
+				"Soi",
+				"Solicitud"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"e",
+				"except"
+			],
+			[
+				"is_",
+				"is_token_expired"
+			],
+			[
+				"au",
+				"authentication"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"get",
+				"get_authorization_header"
+			],
+			[
+				"tie",
+				"tiempo"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"toke",
+				"token_expire_handler"
+			],
+			[
+				"Us",
+				"Usuario"
+			],
+			[
+				"Authen",
+				"AuthenticationMethod"
+			],
+			[
+				"ex",
+				"exceptions"
+			],
+			[
+				"To",
+				"TokenAuthentication"
+			],
+			[
+				"Del",
+				"Delete_Session"
+			],
+			[
+				"De",
+				"delete_sessions"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "stellar-anchor/Documentation/Stellar Polaris Producion para Testing.py",
+			"redo_stack":
+			[
+				[
+					23,
+					1,
+					"cut",
+					null,
+					"AQAAAHwAAAAAAAAAqgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAAHwAAAAAAAAAfAAAAAAAAAAuAAAAcHJveHlfcGFzcyBodHRwOi8vdW5peDovcnVuL2Rldi1ndW5pY29ybi5zb2NrOw",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 1957,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Channel"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gis",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+			"help()",
+			"exit()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/Josean/Scripts/Django/stellar-anchor/backend/src",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation"
+	],
+	"file_history":
+	[
+		"/home/Josean/Scripts/Django/stellar-anchor/backend/src/core/pruebas/test.py",
+		"/home/jamartinez/Scripts/Django/Projectos.sublime-project",
+		"/home/Josean/Scripts/Django/stellar-anchor/backend/src/core/pruebas/Depositos_sep06.py",
+		"/home/jamartinez/.config/sublime-text/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/home/jamartinez/.config/sublime-text/Packages/User/SublimeREPL.sublime-settings",
+		"/home/jamartinez/.config/sublime-text/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/jamartinez/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jamartinez/.config/sublime-text/Packages/User/Anaconda.sublime-settings",
+		"/home/jamartinez/Escritorio/Polaris/core/polaris/sep24/deposit.py",
+		"/home/jamartinez/Escritorio/Polaris/core/testing/myintegrations/deposit_sep24_podc.py",
+		"/home/jamartinez/Escritorio/Polaris/core/polaris/shared/endpoints.py",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/Crear_Asset_USDC.json",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/Crear_Asset.py",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/get_account_details.py",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/Depositos_sep24.py",
+		"/home/jamartinez/Escritorio/Polaris/core/polaris/sep24/info.py",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/backend/venv/lib/python3.8/site-packages/stellar_sdk/transaction_builder.py",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/get_single_account.json",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/get_account_opeations.json",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/depositar_podc.py",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/Documentation/depositar_podc.py",
+		"/home/jamartinez/Escritorio/Polaris/core/testing/views.py",
+		"/home/jamartinez/Escritorio/Polaris/core/polaris/sep10/views.py",
+		"/home/jamartinez/Escritorio/Polaris/core/polaris/sep1/views.py",
+		"/home/jamartinez/Escritorio/Polaris/core/testing/myintegrations/fees.py",
+		"/home/jamartinez/Escritorio/Polaris/core/testing/apps.py",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/Crear_Asset_USDC.log",
+		"/home/jamartinez/Escritorio/Polaris/core/polaris/integrations/fees.py",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/prueba.py",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/new_account_friendbot.py",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/dev-stellar.alfred-pay.com",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/Documentation/Issue_a_Asset.txt",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/Crear_Asset_USDC.py",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/example.py",
+		"/home/jamartinez/Escritorio/Polaris/core/pruebas/Depositos_entre_cuentas.py",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/backend/venv/lib/python3.8/site-packages/stellar_sdk/operation/set_options.py",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/Documentation/demo-wallet-script.py",
+		"/home/jamartinez/Escritorio/Polaris/core/testing/tests.py",
+		"/home/jamartinez/Escritorio/demo-wallet/src/components/stellar-wallet/stellar-wallet.scss",
+		"/home/jamartinez/Escritorio/demo-wallet/src/components/stellar-wallet/stellar-wallet.tsx",
+		"/home/jamartinez/Escritorio/demo-wallet/src/global/style.scss",
+		"/home/jamartinez/Escritorio/demo-wallet/src/index.html",
+		"/home/jamartinez/Escritorio/demo-wallet/stencil.config.ts",
+		"/home/jamartinez/Scripts/Django/stellar-demo-wallet/packages/demo-wallet-client/src/pages/Landing.tsx",
+		"/home/jamartinez/Scripts/Django/stellar-demo-wallet/packages/demo-wallet-client/.env",
+		"/home/jamartinez/Scripts/Django/Plaid/python/server.py",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/Documentation/Plaid-Credentials.json",
+		"/home/jamartinez/Scripts/Django/Plaid/node/.env.example",
+		"/home/jamartinez/Scripts/Django/Plaid/node/.env",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/frontend/src2/package.json",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/frontend/src/package2-bkp.json",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/frontend/src/package.json",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/frontend/src2/package-bkp.json",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/frontend/src/package2.json",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/demo/apps.py",
+		"/home/jamartinez/Escritorio/Polaris/etc/.env",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/Stellar Polaris Producion para Testing.py",
+		"/home/jamartinez/bash_history_old",
+		"/home/jamartinez/Escritorio/PHP-master/README.md",
+		"/home/jamartinez/.bash_history",
+		"/home/jamartinez/Escritorio/Informe.log",
+		"/home/jamartinez/php7.log",
+		"/home/jamartinez/anaconda3/envs/jupyterhub/etc/nginx/sites-available/jupyter.josean7link.org",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/gunicorn.service",
+		"/home/jamartinez/Escritorio/package-list.log",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/gunicorn.socket",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/myuser/serializers.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/login/urls.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/login/views.py",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/backend/venv/lib/python3.8/site-packages/dj_rest_auth/serializers.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/login/serializers.py",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/login_views.py",
+		"/home/josean/Scripts/Django/stellar-anchor/backend/src/base-dir/backend/venv/lib/python3.8/site-packages/rest_framework_simplejwt/serializers.py",
+		"/home/josean/Scripts/Django/stellar-anchor/backend/src/base-dir/backend/venv/lib/python3.8/site-packages/rest_framework_simplejwt/views.py",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/login_post.py",
+		"/home/jamartinez/Escritorio/Polaris/config/settings/base.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/myuser/views.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/token/apps.py",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/print_request_dict.py",
+		"/home/jamartinez/Escritorio/Polaris/core/polaris/integrations/customers.py",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/API.Urls.txt",
+		"/home/josean/Scripts/Django/stellar-anchor/.gitignore",
+		"/home/jamartinez/Escritorio/Polaris/config/settings/local.py",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/Documentation/API.Urls.txt",
+		"/home/jamartinez/Escritorio/Polaris/core/testing/urls.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/myuser/urls.py",
+		"/home/jamartinez/Escritorio/Polaris/config/urls.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/myuser/models.py",
+		"/home/jamartinez/Scripts/Django/Cripto/backend/venv/lib/python3.8/site-packages/rest_framework/authtoken/views.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/myuser/admin.py",
+		"/home/jamartinez/Scripts/Django/Cripto/backend/src/config/settings.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/login/authentication_mixin.py",
+		"/home/jamartinez/Escritorio/Polaris/base-dir/Documentation/Cookies.json",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/login/token.py",
+		"/home/jamartinez/Scripts/Django/Cripto/backend/src/API/api/api.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/login/apps.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/token/token.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/token/authentication_mixin.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/token/authentication.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/token/urls.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/token/serializers.py",
+		"/home/jamartinez/Scripts/Django/Cripto/backend/src/API/token/token.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/myuser/tests.py",
+		"/home/josean/Scripts/Django/stellar-anchor/backend/src/base-dir/backend/venv/lib/python3.8/site-packages/django/contrib/auth/models.py",
+		"/home/jamartinez/Scripts/Django/Cripto/Notebook/site_packages/jedi/third_party/django-stubs/django-stubs/db/models/query.pyi",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/serializers.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/views.py",
+		"/home/jamartinez/Scripts/Django/API/backend/src/core/login/views.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/models.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/views2.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/serializers2.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/admin.py",
+		"/home/jamartinez/Scripts/Django/Django_React_todo/backend/src/core/todo/serializers.py",
+		"/home/jamartinez/Scripts/Django/Django_React_todo/backend/src/core/todo/views.py",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/Inspecting a ModelSerializer.txt",
+		"/home/jamartinez/Scripts/Django/Django_React_todo/frontend/src/components/Modal.js",
+		"/home/jamartinez/Scripts/Django/Django_React_todo/frontend/src/App.js",
+		"/home/jamartinez/Scripts/Django/Django_React_todo/frontend/src/index.js",
+		"/home/josean/Scripts/Django/Django_React_todo/frontend/package.json",
+		"/home/josean/Scripts/Django/Django_React_todo/frontend/src/package.json",
+		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/Access Control.txt",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/apps.py",
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/myuser/apps.py",
+		"/home/jamartinez/Escritorio/Polaris/config/settings/production.py",
+		"/home/jamartinez/Scripts/Django/API/backend/src/core/user/models.py",
+		"/home/jamartinez/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/home/jamartinez/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+		"/home/jamartinez/.config/sublime-text-3/Packages/Djaneiro/Settings/Python (Django).sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"data",
+			"cmd",
+			"/*",
+			"*/",
+			"\\t",
+			"*/",
+			"/*",
+			"\\t",
+			"print",
+			"pri",
+			", ",
+			"'",
+			"\\'",
+			", ",
+			"t_amount",
+			"t_destination",
+			"interactive_args_validation",
+			"\n    ",
+			"print",
+			"\n    ",
+			"prin",
+			"tx_json",
+			"print",
+			"serializer.data",
+			"content_from_anchor",
+			"tx_json",
+			"'",
+			"print",
+			"\n        ",
+			"print",
+			"Server",
+			"\n",
+			"Network",
+			"Asset",
+			"status",
+			"Response",
+			"rdi",
+			"DepositIntegration",
+			"registered_deposit_integration",
+			"rdi",
+			"content_for_template",
+			"content_from_anchor",
+			"Response",
+			"return",
+			"NotFoundError",
+			"logger.info(\"Account does not exist, using client's master key to verify\")",
+			"NotFoundError",
+			"token",
+			"return",
+			"interactive_args_validation",
+			"LiquidityPoolDeposit",
+			"Price",
+			"SetOptions",
+			"()\n",
+			"font",
+			"namedExports",
+			"metricNames",
+			"\\n",
+			" - ",
+			"\\nphp",
+			"\\ni  ",
+			"conda",
+			"MyUserTokenSerializer",
+			"CustomUserSerializer",
+			"IsAuthenticated",
+			"AllowAny",
+			"RetrieveDestroyAPIView",
+			"RetrieveAPIView",
+			"GenericAPIView",
+			"ObtainAuthToken",
+			" Token",
+			"JWTSerializer",
+			"get_token_model",
+			"MyUserTokenSerializer",
+			"CustomUserSerializer",
+			"MyUserTokenSerializer",
+			"TokenObtainPairView",
+			"MyUserTokenSerializer",
+			"TokenObtainPairView",
+			"CustomUserSerializer",
+			"RetrieveDestroyAPIView",
+			"MyUserTokenSerializer",
+			"ObtainAuthToken",
+			"get_user_model",
+			"timezone",
+			"datetime",
+			"str",
+			"'",
+			"ProfileSerializer",
+			"validated_data",
+			"AdminUserSerializer",
+			"get_user_model",
+			"Django_React",
+			"from",
+			"from polaris",
+			"import polaris",
+			"from polaris",
+			"import polaris",
+			"from polaris",
+			"type",
+			"buy_asset",
+			"type",
+			"buy_asset",
+			"models.TextField()",
+			"buy_asset",
+			"models.",
+			"from polaris",
+			"include(\"polaris",
+			"import polaris",
+			"models.TextField",
+			"Asset",
+			"from polaris",
+			"buy_asset",
+			"models.TextField",
+			"BASE_DIR",
+			"\\)",
+			"get_config_set",
+			"23",
+			"stellar_xdr",
+			"base64",
+			"read_challenge_transaction",
+			"manage_data_op",
+			"base64",
+			"base64-encoded",
+			"xdr_object",
+			"ValueError",
+			"base64",
+			"TransactionEnvelope"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"    ",
+			"",
+			"    ",
+			",\\n",
+			"\\\"",
+			",\\n",
+			"amount",
+			"destination",
+			"\"",
+			"# print",
+			" ",
+			", ",
+			"\\n\\n",
+			"\\n\\nphp",
+			"\\n",
+			"",
+			"\"",
+			"data",
+			"from core.polaris",
+			"models.CharField(max_length=255)",
+			"from core.polaris",
+			"include(\"core.polaris",
+			"import core.polaris",
+			"from core.polaris",
+			"\\, default\\=False\\)",
+			"env.bool",
+			"",
+			"\\n> ",
+			",\\n    ",
+			"\\n},    ",
+			" {\\n    ",
+			",\\n    ",
+			":\\n    ",
+			"logger_t.error",
+			"logger_t.info",
+			"logger_t",
+			"\"",
+			"logger_p",
+			"logger_t.debug",
+			"logger_t",
+			"logger_p.info",
+			"get_transaction_interactive",
+			": {",
+			"\")\\n",
+			": ",
+			"\")\\n",
+			"stellar-anchor",
+			"",
+			"self.perfil_id.nombre",
+			"Perfil,",
+			"Perfil, to_field='cedula'",
+			"    cedula = models.ForeignKey(Perfil, to_field='cedula', on_delete=models.CASCADE)",
+			"cedula = models.ForeignKey(Perfil, to_field='perfil_id', on_delete=models.CASCADE)",
+			"models.ManyToManyField",
+			"cedula_id = models.ManytoManyField(Perfil)",
+			"ManytoManyField(Perfil)",
+			"renum",
+			"ubic",
+			"cargo_20",
+			"',\\n'",
+			"',\\n            '",
+			",\\n            ",
+			", ",
+			",\\n",
+			"",
+			"\\n    renumeracion_2021_",
+			"\\n    renumeracion_2020_",
+			"\\n    ubicacion_2021_",
+			"\\n    ubicacion_2020_",
+			"\\n    Cargo_2021_",
+			"\\n    Cargo_2020_",
+			"\\n    Cargo_2020",
+			"cedula = models.ForeignKey(Perfil, on_delete=models.CASCADE)",
+			"user = models.ForeignKey(MyUser, on_delete=models.CASCADE)",
+			"cedula = models.ForeignKey(Perfil, on_delete=models.CASCADE)",
+			"models.ForeignKey(MyUser, on_delete=models.CASCADE)",
+			"default='Ubic 21'",
+			"default='Ubic 20'",
+			"default='Ubic 21'",
+			"default='Cargo 21'",
+			"default='Cargo 20'",
+			"models.OneToOneField(MyUser, on_delete=models.CASCADE)",
+			"",
+			".- ",
+			"",
+			"\\n",
+			"",
+			"', '",
+			", ",
+			"},\\n",
+			"\\}",
+			"\\{",
+			"s'\\]",
+			"003' 'y4':",
+			"s', 'x4':",
+			"002' 'y3':",
+			"s', 'x2'",
+			"s', 'x3':",
+			"y2':",
+			"001', 'y2",
+			"', '",
+			": '",
+			"': '",
+			":",
+			"'y1' ",
+			"'x1' ",
+			"s, ",
+			" s, ",
+			" y",
+			"\\/s\\nx = ",
+			"\\ny = ",
+			"\\ny =",
+			"s\\n",
+			"}\\n{",
+			"},\\n{",
+			"",
+			"}\\n{",
+			"},\\n",
+			",\\n",
+			"},\\n",
+			", ",
+			"",
+			",\\n",
+			"},\\n{",
+			",\\n",
+			"\\n\\{",
+			"\\n\\["
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "stellar-anchor/Documentation/Stellar Polaris Producion para Testing.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 119.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "Projectos.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

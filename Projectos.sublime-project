@@ -1,0 +1,154 @@
+{
+    "build_systems":
+    [
+        {
+            "cmd": [
+                "/home/Josean/Scripts/Django/stellar-anchor/backend/venv/bin/python",
+                "-u",
+                "$file"
+            ],
+            "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+            "name": "Python",
+            "selector": "source.python",
+        },
+        {
+            "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+            "name": "Anaconda Python Builder",
+            "selector": "source.python",
+            "shell_cmd": "\"/usr/bin/python3\" -u \"$file\"",
+        },
+    ],
+    "folders":
+    [
+        { // Polaris Frontend
+            "name": "Polaris_Server",
+            "path": "/home/Josean/Scripts/Django/stellar-anchor/backend/src",
+            "folder_exclude_patterns" : [
+                "base-dir",
+                "collectstatic",
+                "static_root",
+                "__pycache__",
+                "migrations",
+            ],
+            "file_exclude_patterns": [
+                "python",
+            ],
+            /*"file_exclude_patterns":
+            [
+                "python"
+            ],*/
+            /*"folder_exclude_patterns":
+            [
+                "base-dir",
+                "collectstatic",
+                "static_root",
+                "__pycache__",
+                "migrations"
+            ],*/
+            /*"name": "Polaris_Server",*/
+            /*"path": "/home/Josean/Scripts/Django/stellar-anchor/backend/src",*/
+        },
+        {
+            "name": "Documentation",
+            "path": "stellar-anchor/Documentation",
+            "folder_exclude_patterns" : [
+                "base-dir", "collectstatic", "static_root",
+                "__pycache__", "migrations"
+            ],
+            "file_exclude_patterns": ["python"],
+        },
+        { // Demo Wallet
+            // "name": "Demo Wallet",
+            // "path": "/home/jamartinez/Escritorio/demo-wallet",
+            // "folder_exclude_patterns" : [
+            // ],
+            // "file_exclude_patterns": [
+            // ],
+            // "path": "/home/jamartinez/Descargas/sublime_text/64bit",
+        },
+        { // Django Packages
+            // "name": "Django Packages",
+            // "path": "/home/jamartinez/Escritorio/Polaris/base-dir/backend/venv/lib/python3.8/site-packages",
+            // "folder_include_patterns" : [
+            //     "bs4", "builder", "dj_rest_auth", "locale", "refistration",
+            //     "tests", "django", "contrib", "auth", "urls", "utils", "views",
+            //     "decorators", "generic", "PIL", "rest_authtoken",
+            //     "rest_framework*", "authtoken", "stellar_sdk", "call*",
+            //     "client", "operation", "sep", "vendor", "xdr"
+            // ],
+            // "file_exclude_patterns": [
+            //     "*virtualenv*", "six.py", "sseclient.py", "*.pth"
+            // ],
+        },
+        { // Django React
+            // "name": "Django_React",
+            // "path": "Django_React_todo",
+            // "folder_exclude_patterns" : [
+            //     "base-dir", "collectstatic", "static_root",
+            //     "__pycache__", "migrations", "node_modules"
+            // ],
+            // "file_exclude_patterns": [
+            //     "python", "*.pnp", "*.env.*", "*.log*",
+            //     ".gitignore", "*-lock.json"
+
+            // ],
+        },
+        { // Dashboard
+            // "name": "Dashboard",
+            // "path": "API/backend/src",
+            // "folder_exclude_patterns" : [
+            //     "collectstatic", "static_root", "media",
+            //     "__pycache__", "migrations", "static"
+            // ],
+            // "file_exclude_patterns": [
+            //     "db.sqlite3", "*csv", "*.txt", "*.md"
+            // ],
+        },
+        { // Constancia
+            // "name": "Constancia",
+            // "path": "Constancia/backend/src",
+            // "folder_exclude_patterns" : [
+            //     "django-allauth", "json", "media", "Migraciones", "static",
+            //     "templates", "etc", "migrations", "__pycache__"
+            // ],
+            // "file_exclude_patterns": [
+            //     "manage.py", "README.md"
+            // ],
+        },
+        { // Cripto
+            // "name": "Cripto",
+            // "path": "Cripto/backend/src",
+            // "folder_exclude_patterns" : [
+            //     "media", "static", "templates", "etc",
+            //     "Migraciones", "migrations", "__pycache__"
+            // ],
+            // "file_exclude_patterns": [
+            //     "manage.py", "db.sqlite3", "*.log"
+            // ],
+        },
+        { // Recibos
+            // "name": "Recibos",
+            // "path": "Recibos/backend/src",
+            // "folder_exclude_patterns" : [
+            //     "media", "static", "templates", "etc",
+            //     "Migrations", "migrations", "__pycache__"
+            // ],
+            // "file_exclude_patterns": [
+            //     "manage.py", "python", "*.log"
+            // ],
+        },
+        { // Plaid
+            // "name": "Plaid",
+            // "path": "Plaid",
+            // "folder_exclude_patterns" : [
+            //     "ruby", "go", "java"
+            // ],
+            // "file_exclude_patterns": [
+            //     "*ignore", "*ocker*", "LICENSE", "Makefile", "README.md"
+            // ],
+        },
+{
+            // "path": "/home/josean/Notebook/David/Mineria",
+        },
+    ],
+}
