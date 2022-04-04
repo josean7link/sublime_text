@@ -20,8 +20,8 @@
     ],
     "folders":
     [
-        { // Polaris Frontend
-            "name": "Polaris_Server",
+        { // Polaris Backend
+            "name": "Polaris Server",
             "path": "/home/Josean/Scripts/Django/stellar-anchor/backend/src",
             "folder_exclude_patterns" : [
                 "base-dir",
@@ -48,16 +48,16 @@
             /*"name": "Polaris_Server",*/
             /*"path": "/home/Josean/Scripts/Django/stellar-anchor/backend/src",*/
         },
-        {
+        { // Documentation
             "name": "Documentation",
-            "path": "stellar-anchor/Documentation",
+            "path": "/home/Josean/Scripts/Django/Documentation",
             "folder_exclude_patterns" : [
                 "base-dir", "collectstatic", "static_root",
                 "__pycache__", "migrations"
             ],
             "file_exclude_patterns": ["python"],
         },
-        { // Demo Wallet
+        { // Stellar Demo Wallet
             // "name": "Demo Wallet",
             // "path": "/home/jamartinez/Escritorio/demo-wallet",
             // "folder_exclude_patterns" : [
@@ -95,7 +95,7 @@
         },
         { // Dashboard
             // "name": "Dashboard",
-            // "path": "API/backend/src",
+            // "path": "/home/Josean/Scripts/Django/Jesus/API/backend/src",
             // "folder_exclude_patterns" : [
             //     "collectstatic", "static_root", "media",
             //     "__pycache__", "migrations", "static"
@@ -106,7 +106,7 @@
         },
         { // Constancia
             // "name": "Constancia",
-            // "path": "Constancia/backend/src",
+            // "path": "/home/Josean/Scripts/Django/Jesus/Constancia/backend/src",
             // "folder_exclude_patterns" : [
             //     "django-allauth", "json", "media", "Migraciones", "static",
             //     "templates", "etc", "migrations", "__pycache__"
@@ -115,9 +115,9 @@
             //     "manage.py", "README.md"
             // ],
         },
-        { // Cripto
+        { // Cripto CoinGekco
             // "name": "Cripto",
-            // "path": "Cripto/backend/src",
+            // "path": "/home/Josean/Scripts/Django/Jesus/Cripto/backend/src",
             // "folder_exclude_patterns" : [
             //     "media", "static", "templates", "etc",
             //     "Migraciones", "migrations", "__pycache__"
@@ -128,7 +128,7 @@
         },
         { // Recibos
             // "name": "Recibos",
-            // "path": "Recibos/backend/src",
+            // "path": "/home/Josean/Scripts/Django/Jesus/Recibos/backend/src",
             // "folder_exclude_patterns" : [
             //     "media", "static", "templates", "etc",
             //     "Migrations", "migrations", "__pycache__"
@@ -147,8 +147,13 @@
             //     "*ignore", "*ocker*", "LICENSE", "Makefile", "README.md"
             // ],
         },
-{
+        { // Jesus Notebook
+            // "name": "Notebook",
             // "path": "/home/josean/Notebook/David/Mineria",
+        },
+        { // JustDjango Chat Example
+            // "name": "Chat",
+            // "path": "/home/Josean/Scripts/Django/justdjango/Chat/backend/src",
         },
     ],
 }
