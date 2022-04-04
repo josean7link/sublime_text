@@ -1,0 +1,32 @@
+{
+    /*"build_systems":
+    [
+        {
+            "cmd": [
+                "/home/Josean/Scripts/Django/stellar-anchor/backend/venv/bin/python",
+                "-u",
+                "$file"
+            ],
+            "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+            "name": "Python",
+            "selector": "source.python",
+        },
+        {
+            "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+            "name": "Anaconda Python Builder",
+            "selector": "source.python",
+            "shell_cmd": "\"/usr/bin/python3\" -u \"$file\"",
+        },
+    ],*/
+    "folders":
+    [
+        { // Wallet src
+            "name": "Wallet src",
+            "path": "alfred-wallet/src"
+        },
+        { // Wallet Base-dir
+            "name": "Wallet Base-dir",
+            "path": "alfred-wallet"
+        },
+    ]
+}
