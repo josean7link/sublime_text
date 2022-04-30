@@ -1,4 +1,13 @@
 {
+    "build_systems":
+    [
+        {
+            "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+            "name": "Anaconda Python Builder",
+            "selector": "source.python",
+            "shell_cmd": "\"/usr/bin/python3\" -u \"$file\"",
+        }
+    ],
     /*"build_systems":
     [
         {
@@ -20,17 +29,13 @@
     ],*/
     "folders":
     [
-        { // Wallet src
-            "name": "Wallet src",
-            "path": "/home/Josean/Scripts/nodejs/Alfred-Wallet-Testing/src"
+        { // Documentation
+            "name": "Documentation",
+            "path": "/home/jamartinez/Scripts/Documentation",
         },
-        { // Wallet Base-dir
-            "name": "Wallet Base-dir",
-            "path": "/home/Josean/Scripts/nodejs/Alfred-Wallet-Testing"
-        },
-        { // Plaid src
-            "name": "Plaid src",
-            "path": "/home/Josean/Scripts/nodejs/Plaid/frontend/src",
+        { // Nest Backend Services
+            "name": "Nest Backend Services",
+            "path": "/home/Josean/Scripts/nodejs/nest-backend-services",
             "folder_exclude_patterns" : [
                 "ruby", "go", "java"
             ],
@@ -38,8 +43,22 @@
                 "*ignore", "*ocker*", "LICENSE", "Makefile", "README.md"
             ],
         },
-        { // Plaid Base-dir
-            "name": "Plaid Base-dir",
+        { //Nestjs Task Management
+            "name": "Nestjs Task Management",
+            "path": "/home/Josean/Scripts/nodejs/nestjs-task-management",
+            "folder_exclude_patterns" : [
+                "ruby", "go", "java"
+            ],
+            "file_exclude_patterns": [
+                "*ignore", "*ocker*", "LICENSE", "Makefile", "README.md"
+            ],
+        },
+        { // Wallet Testing
+            "name": "Wallet Base-dir",
+            "path": "/home/Josean/Scripts/nodejs/Alfred-Wallet-Testing",
+        },
+        { // My Plaid
+            "name": "My Plaid",
             "path": "/home/Josean/Scripts/nodejs/Plaid/frontend",
             "folder_exclude_patterns" : [
                 "ruby", "go", "java"
@@ -48,5 +67,5 @@
                 "*ignore", "*ocker*", "LICENSE", "Makefile", "README.md"
             ],
         },
-    ]
+    ],
 }

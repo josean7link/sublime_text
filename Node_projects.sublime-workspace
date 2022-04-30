@@ -519,268 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Node_projects.sublime-project",
-			"settings":
-			{
-				"buffer_size": 1648,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AgAAAJUDAAAAAAAAlgMAAAAAAAAAAAAAlgMAAAAAAACeAwAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAlQMAAAAAAACVAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					4,
-					1,
-					"paste",
-					null,
-					"AQAAAJ4DAAAAAAAAvwMAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAngMAAAAAAACeAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AgAAAL8DAAAAAAAAwAMAAAAAAAAAAAAAwAMAAAAAAADIAwAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAvwMAAAAAAAC/AwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"paste",
-					null,
-					"AQAAAJYDAAAAAAAA4wQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAlgMAAAAAAACWAwAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					13,
-					1,
-					"cut",
-					null,
-					"AQAAAOMEAAAAAAAA4wQAAAAAAAAqAAAAICAgICAgICAvaG9tZS9Kb3NlYW4vU2NyaXB0cy9ub2RlanMvUGxhaWQK",
-					"AQAAAAAAAAABAAAA4wQAAAAAAAANBQAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					19,
-					1,
-					"paste",
-					null,
-					"AgAAAOEDAAAAAAAACwQAAAAAAAAAAAAACwQAAAAAAAALBAAAAAAAAAUAAABQbGFpZA",
-					"AQAAAAAAAAABAAAA5gMAAAAAAADhAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					20,
-					1,
-					"left_delete",
-					null,
-					"AgAAAAoEAAAAAAAACgQAAAAAAAABAAAACgcFAAAAAAAABwUAAAAAAAAIAAAAICAgICAgICA",
-					"AQAAAAAAAAABAAAACwQAAAAAAAALBAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					25,
-					1,
-					"right_delete",
-					null,
-					"AQAAAOEDAAAAAAAA4QMAAAAAAAAIAAAAICAgICAgICA",
-					"AQAAAAAAAAABAAAA6QMAAAAAAADhAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					26,
-					1,
-					"left_delete",
-					null,
-					"AQAAAOADAAAAAAAA4AMAAAAAAAABAAAAIg",
-					"AQAAAAAAAAABAAAA4QMAAAAAAADhAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					27,
-					1,
-					"insert",
-					{
-						"characters": "\""
-					},
-					"AQAAAOADAAAAAAAA4QMAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA4AMAAAAAAADgAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					31,
-					1,
-					"toggle_comment",
-					{
-						"block": false
-					},
-					"CAAAAO4EAAAAAAAA7gQAAAAAAAADAAAALy8gogQAAAAAAACiBAAAAAAAAAMAAAAvLyB4BAAAAAAAAHgEAAAAAAAAAwAAAC8vIGYEAAAAAAAAZgQAAAAAAAADAAAALy8gPgQAAAAAAAA+BAAAAAAAAAMAAAAvLyARBAAAAAAAABEEAAAAAAAAAwAAAC8vINUDAAAAAAAA1QMAAAAAAAADAAAALy8gtQMAAAAAAAC1AwAAAAAAAAMAAAAvLyA",
-					"AQAAAAAAAAABAAAAqQMAAAAAAAD0BAAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					36,
-					1,
-					"insert",
-					{
-						"characters": "/"
-					},
-					"AQAAAPwDAAAAAAAA/QMAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA/AMAAAAAAAD8AwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					37,
-					1,
-					"insert",
-					{
-						"characters": "fron"
-					},
-					"BAAAAP0DAAAAAAAA/gMAAAAAAAAAAAAA/gMAAAAAAAD/AwAAAAAAAAAAAAD/AwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAQQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA/QMAAAAAAAD9AwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					38,
-					1,
-					"insert",
-					{
-						"characters": "tend"
-					},
-					"BAAAAAEEAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAADBAAAAAAAAAAAAAADBAAAAAAAAAQEAAAAAAAAAAAAAAQEAAAAAAAABQQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					49,
-					1,
-					"paste",
-					null,
-					"AgAAAPAEAAAAAAAASgYAAAAAAAAAAAAASgYAAAAAAABKBgAAAAAAAAEAAAAK",
-					"AQAAAAAAAAABAAAA8AQAAAAAAADxBAAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					53,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAAIFAAAAAAAAAwUAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAgUAAAAAAAACBQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					54,
-					1,
-					"insert",
-					{
-						"characters": "Base"
-					},
-					"BAAAAAMFAAAAAAAABAUAAAAAAAAAAAAABAUAAAAAAAAFBQAAAAAAAAAAAAAFBQAAAAAAAAYFAAAAAAAAAAAAAAYFAAAAAAAABwUAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAwUAAAAAAAADBQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					55,
-					1,
-					"insert",
-					{
-						"characters": "-dir"
-					},
-					"BAAAAAcFAAAAAAAACAUAAAAAAAAAAAAACAUAAAAAAAAJBQAAAAAAAAAAAAAJBQAAAAAAAAoFAAAAAAAAAAAAAAoFAAAAAAAACwUAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABwUAAAAAAAAHBQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					58,
-					1,
-					"insert",
-					{
-						"characters": " S"
-					},
-					"AgAAAKgDAAAAAAAAqQMAAAAAAAAAAAAAqQMAAAAAAACqAwAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAqAMAAAAAAACoAwAAAAAAAAAAAAAA4HBA"
-				],
-				[
-					59,
-					1,
-					"left_delete",
-					null,
-					"AQAAAKkDAAAAAAAAqQMAAAAAAAABAAAAUw",
-					"AQAAAAAAAAABAAAAqgMAAAAAAACqAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					60,
-					1,
-					"insert",
-					{
-						"characters": "src"
-					},
-					"AwAAAKkDAAAAAAAAqgMAAAAAAAAAAAAAqgMAAAAAAACrAwAAAAAAAAAAAACrAwAAAAAAAKwDAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAqQMAAAAAAACpAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					64,
-					1,
-					"insert",
-					{
-						"characters": " S"
-					},
-					"AgAAAMcDAAAAAAAAyAMAAAAAAAAAAAAAyAMAAAAAAADJAwAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAxwMAAAAAAADHAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					65,
-					1,
-					"left_delete",
-					null,
-					"AQAAAMgDAAAAAAAAyAMAAAAAAAABAAAAUw",
-					"AQAAAAAAAAABAAAAyQMAAAAAAADJAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					66,
-					1,
-					"insert",
-					{
-						"characters": "src"
-					},
-					"AwAAAMgDAAAAAAAAyQMAAAAAAAAAAAAAyQMAAAAAAADKAwAAAAAAAAAAAADKAwAAAAAAAMsDAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAyAMAAAAAAADIAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					70,
-					1,
-					"insert",
-					{
-						"characters": " Base"
-					},
-					"BQAAAC4FAAAAAAAALwUAAAAAAAAAAAAALwUAAAAAAAAwBQAAAAAAAAAAAAAwBQAAAAAAADEFAAAAAAAAAAAAADEFAAAAAAAAMgUAAAAAAAAAAAAAMgUAAAAAAAAzBQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAALgUAAAAAAAAuBQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					71,
-					1,
-					"insert",
-					{
-						"characters": "-dir"
-					},
-					"BAAAADMFAAAAAAAANAUAAAAAAAAAAAAANAUAAAAAAAA1BQAAAAAAAAAAAAA1BQAAAAAAADYFAAAAAAAAAAAAADYFAAAAAAAANwUAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAMwUAAAAAAAAzBQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					74,
-					1,
-					"insert",
-					{
-						"characters": "/src"
-					},
-					"BAAAAA0EAAAAAAAADgQAAAAAAAAAAAAADgQAAAAAAAAPBAAAAAAAAAAAAAAPBAAAAAAAABAEAAAAAAAAAAAAABAEAAAAAAAAEQQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAADQQAAAAAAAANBAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -908,10 +646,24 @@
 	},
 	"expanded_folders":
 	[
+		"/home/Josean/Scripts/nodejs/nestjs-task-management",
+		"/home/Josean/Scripts/nodejs/nestjs-task-management/src",
+		"/home/Josean/Scripts/nodejs/nestjs-task-management/src/tasts"
 	],
 	"file_history":
 	[
+		"/home/Josean/Scripts/nodejs/nestjs-task-management/src/main.ts",
+		"/home/Josean/Scripts/nodejs/nestjs-task-management/src/tasts/tasts.module.ts",
+		"/home/martinezja/Videos/Cursos/JavaScript/Nodejs2.bsh",
+		"/home/martinezja/Videos/Cursos/JavaScript/Nodejs.log",
+		"/home/martinezja/Videos/Cursos/JavaScript/Nodejs2.log",
+		"/home/Josean/Scripts/nodejs/nestjs-task-management/src/app.module.ts",
+		"/home/Josean/Scripts/nodejs/nest-backend-services/.env",
 		"/home/martinezja/Scripts/sublime_text/Node_projects.sublime-project",
+		"/home/jamartinez/Scripts/Documentation/Nestjs/postgresql.md",
+		"/home/martinezja/Scripts/nodejs/nest-backend-services/src/users/users.service.ts",
+		"/home/martinezja/Scripts/nodejs/nest-backend-services/package.json",
+		"/home/Josean/Scripts/nodejs/Plaid/frontend/src/index.tsx",
 		"/home/jamartinez/Scripts/nodejs/alfred-wallet/src/testing/secret_key.signature.authentication.ts",
 		"/home/jamartinez/Scripts/nodejs/alfred-wallet/src/testing/test.ts",
 		"/home/jamartinez/Scripts/nodejs/alfred-wallet/src/testing/Signature.ts",
@@ -1027,22 +779,11 @@
 		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/views.py",
 		"/home/jamartinez/Scripts/Django/API/backend/src/core/login/views.py",
 		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/models.py",
-		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/views2.py",
-		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/serializers2.py",
-		"/home/jamartinez/Escritorio/Polaris/core/dashboard/admin.py",
-		"/home/jamartinez/Scripts/Django/Django_React_todo/backend/src/core/todo/serializers.py",
-		"/home/jamartinez/Scripts/Django/Django_React_todo/backend/src/core/todo/views.py",
-		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/Inspecting a ModelSerializer.txt",
-		"/home/jamartinez/Scripts/Django/Django_React_todo/frontend/src/components/Modal.js",
-		"/home/jamartinez/Scripts/Django/Django_React_todo/frontend/src/App.js",
-		"/home/jamartinez/Scripts/Django/Django_React_todo/frontend/src/index.js",
-		"/home/josean/Scripts/Django/Django_React_todo/frontend/package.json",
-		"/home/josean/Scripts/Django/Django_React_todo/frontend/src/package.json",
-		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/Access Control.txt"
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/stackoverfull/views2.py"
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 72.0
 	},
 	"find_in_files":
 	{
@@ -1056,6 +797,14 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"\\n",
+			".mp4  “ “0    ",
+			"mv “    ",
+			"\\n",
+			" has already been downloaded",
+			"[download] ",
+			"{a}",
+			"sequelize",
 			"YOUR_WYRE_SECRET_KEY",
 			"YOUR_WYRE_API_KEY",
 			"\\t",
@@ -1175,15 +924,7 @@
 			"stellar_xdr",
 			"base64",
 			"read_challenge_transaction",
-			"manage_data_op",
-			"base64",
-			"base64-encoded",
-			"xdr_object",
-			"ValueError",
-			"base64",
-			"TransactionEnvelope",
-			"base64",
-			"ValueError"
+			"manage_data_op"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1191,6 +932,11 @@
 		"regex": true,
 		"replace_history":
 		[
+			"\"\\n",
+			".mp4\" \"0",
+			"mv \"",
+			"\\n -",
+			"",
 			"Secret_key",
 			"API_key",
 			"    ",
@@ -1313,12 +1059,7 @@
 			"},\\n",
 			",\\n",
 			"},\\n",
-			", ",
-			"",
-			",\\n",
-			"},\\n{",
-			",\\n",
-			"\\n\\{"
+			", "
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
@@ -1333,137 +1074,16 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Node_projects.sublime-project",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1648,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1041,
-								1041
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1041,
-										1042
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										994,
-										995
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 531.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 34.0
 	},
 	"input":
 	{
-		"height": 70.0
+		"height": 72.0
 	},
 	"layout":
 	{
@@ -1516,7 +1136,7 @@
 	"project": "Node_projects.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 118.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1551,10 +1171,10 @@
 	{
 	},
 	"show_minimap": false,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 213.0,
+	"side_bar_width": 291.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

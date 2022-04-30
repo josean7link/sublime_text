@@ -520,25 +520,14 @@
 	"buffers":
 	[
 		{
-			"contents": "{\n    \"build_systems\":\n    [\n        {\n            \"cmd\": [\n                \"/home/Josean/Scripts/Django/stellar-anchor/backend/venv/bin/python\",\n                \"-u\",\n                \"$file\"\n            ],\n            \"file_regex\": \"^[ ]File \\\"(...?)\\\", line ([0-9]*)\",\n            \"name\": \"Python\",\n            \"selector\": \"source.python\",\n        },\n        {\n            \"file_regex\": \"^[ ]*File \\\"(...*?)\\\", line ([0-9]*)\",\n            \"name\": \"Anaconda Python Builder\",\n            \"selector\": \"source.python\",\n            \"shell_cmd\": \"\\\"/usr/bin/python3\\\" -u \\\"$file\\\"\",\n        },\n    ],\n    \"folders\":\n    [\n        { // Polaris Backend\n            \"name\": \"Polaris Server\",\n            \"path\": \"/home/Josean/Scripts/Django/stellar-anchor/backend/src\",\n            \"folder_exclude_patterns\" : [\n                \"base-dir\",\n                \"collectstatic\",\n                \"static_root\",\n                \"__pycache__\",\n                \"migrations\",\n            ],\n            \"file_exclude_patterns\": [\n                \"python\",\n            ],\n            /*\"file_exclude_patterns\":\n            [\n                \"python\"\n            ],*/\n            /*\"folder_exclude_patterns\":\n            [\n                \"base-dir\",\n                \"collectstatic\",\n                \"static_root\",\n                \"__pycache__\",\n                \"migrations\"\n            ],*/\n            /*\"name\": \"Polaris_Server\",*/\n            /*\"path\": \"/home/Josean/Scripts/Django/stellar-anchor/backend/src\",*/\n        },\n        { // Documentation\n            \"name\": \"Documentation\",\n            \"path\": \"/home/Josean/Scripts/Django/Documentation\",\n            \"folder_exclude_patterns\" : [\n                \"base-dir\", \"collectstatic\", \"static_root\",\n                \"__pycache__\", \"migrations\"\n            ],\n            \"file_exclude_patterns\": [\"python\"],\n        },\n        { // Stellar Demo Wallet\n            // \"name\": \"Demo Wallet\",\n            // \"path\": \"/home/jamartinez/Escritorio/demo-wallet\",\n            // \"folder_exclude_patterns\" : [\n            // ],\n            // \"file_exclude_patterns\": [\n            // ],\n            // \"path\": \"/home/jamartinez/Descargas/sublime_text/64bit\",\n        },\n        { // Django Packages\n            // \"name\": \"Django Packages\",\n            // \"path\": \"/home/jamartinez/Escritorio/Polaris/base-dir/backend/venv/lib/python3.8/site-packages\",\n            // \"folder_include_patterns\" : [\n            //     \"bs4\", \"builder\", \"dj_rest_auth\", \"locale\", \"refistration\",\n            //     \"tests\", \"django\", \"contrib\", \"auth\", \"urls\", \"utils\", \"views\",\n            //     \"decorators\", \"generic\", \"PIL\", \"rest_authtoken\",\n            //     \"rest_framework*\", \"authtoken\", \"stellar_sdk\", \"call*\",\n            //     \"client\", \"operation\", \"sep\", \"vendor\", \"xdr\"\n            // ],\n            // \"file_exclude_patterns\": [\n            //     \"*virtualenv*\", \"six.py\", \"sseclient.py\", \"*.pth\"\n            // ],\n        },\n        { // Django React\n            // \"name\": \"Django_React\",\n            // \"path\": \"Django_React_todo\",\n            // \"folder_exclude_patterns\" : [\n            //     \"base-dir\", \"collectstatic\", \"static_root\",\n            //     \"__pycache__\", \"migrations\", \"node_modules\"\n            // ],\n            // \"file_exclude_patterns\": [\n            //     \"python\", \"*.pnp\", \"*.env.*\", \"*.log*\",\n            //     \".gitignore\", \"*-lock.json\"\n\n            // ],\n        },\n        { // Dashboard\n            // \"name\": \"Dashboard\",\n            // \"path\": \"/home/Josean/Scripts/Django/Jesus/API/backend/src\",\n            // \"folder_exclude_patterns\" : [\n            //     \"collectstatic\", \"static_root\", \"media\",\n            //     \"__pycache__\", \"migrations\", \"static\"\n            // ],\n            // \"file_exclude_patterns\": [\n            //     \"db.sqlite3\", \"*csv\", \"*.txt\", \"*.md\"\n            // ],\n        },\n        { // Constancia\n            // \"name\": \"Constancia\",\n            // \"path\": \"/home/Josean/Scripts/Django/Jesus/Constancia/backend/src\",\n            // \"folder_exclude_patterns\" : [\n            //     \"django-allauth\", \"json\", \"media\", \"Migraciones\", \"static\",\n            //     \"templates\", \"etc\", \"migrations\", \"__pycache__\"\n            // ],\n            // \"file_exclude_patterns\": [\n            //     \"manage.py\", \"README.md\"\n            // ],\n        },\n        { // Cripto CoinGekco\n            // \"name\": \"Cripto\",\n            // \"path\": \"/home/Josean/Scripts/Django/Jesus/Cripto/backend/src\",\n            // \"folder_exclude_patterns\" : [\n            //     \"media\", \"static\", \"templates\", \"etc\",\n            //     \"Migraciones\", \"migrations\", \"__pycache__\"\n            // ],\n            // \"file_exclude_patterns\": [\n            //     \"manage.py\", \"db.sqlite3\", \"*.log\"\n            // ],\n        },\n        { // Recibos\n            // \"name\": \"Recibos\",\n            // \"path\": \"/home/Josean/Scripts/Django/Jesus/Recibos/backend/src\",\n            // \"folder_exclude_patterns\" : [\n            //     \"media\", \"static\", \"templates\", \"etc\",\n            //     \"Migrations\", \"migrations\", \"__pycache__\"\n            // ],\n            // \"file_exclude_patterns\": [\n            //     \"manage.py\", \"python\", \"*.log\"\n            // ],\n        },\n        { // Jesus Notebook\n            // \"name\": \"Notebook\",\n            // \"path\": \"/home/josean/Notebook/David/Mineria\",\n        },\n        { // JustDjango Chat Example\n            // \"name\": \"Chat\",\n            // \"path\": \"/home/Josean/Scripts/Django/justdjango/Chat/backend/src\",\n        },\n    ],\n}\n",
-			"file": "Projectos.sublime-project",
-			"file_size": 5871,
-			"file_write_time": 132935552003998586,
+			"file": "/home/Josean/Scripts/Django/Documentation/Ancla_Alfred_USA/Stellar Polaris Producion para Testing.py",
 			"settings":
 			{
-				"buffer_size": 5538,
+				"buffer_size": 1169,
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
-				[
-					6,
-					1,
-					"cut",
-					null,
-					"AQAAAHAUAAAAAAAAcBQAAAAAAABNAQAAICAgICAgICB7IC8vIFBsYWlkCiAgICAgICAgICAgIC8vICJuYW1lIjogIlBsYWlkIiwKICAgICAgICAgICAgLy8gInBhdGgiOiAiUGxhaWQiLAogICAgICAgICAgICAvLyAiZm9sZGVyX2V4Y2x1ZGVfcGF0dGVybnMiIDogWwogICAgICAgICAgICAvLyAgICAgInJ1YnkiLCAiZ28iLCAiamF2YSIKICAgICAgICAgICAgLy8gXSwKICAgICAgICAgICAgLy8gImZpbGVfZXhjbHVkZV9wYXR0ZXJucyI6IFsKICAgICAgICAgICAgLy8gICAgICIqaWdub3JlIiwgIipvY2tlcioiLCAiTElDRU5TRSIsICJNYWtlZmlsZSIsICJSRUFETUUubWQiCiAgICAgICAgICAgIC8vIF0sCiAgICAgICAgfSwK",
-					"AQAAAAAAAAABAAAAcBQAAAAAAAC9FQAAAAAAAAAAAAAAAAAA"
-				]
 			]
 		}
 	],
@@ -668,9 +657,14 @@
 	},
 	"expanded_folders":
 	[
+		"/home/Josean/Scripts/Django/stellar-anchor/backend/src",
+		"/home/Josean/Scripts/Django/stellar-anchor/backend/src/etc",
+		"/home/Josean/Scripts/Django/Documentation",
+		"/home/Josean/Scripts/Django/Documentation/Ancla_Alfred_USA"
 	],
 	"file_history":
 	[
+		"/home/Josean/Scripts/Django/stellar-anchor/backend/src/config/wsgi.py",
 		"/home/jamartinez/Scripts/Django/Projectos.sublime-project",
 		"/home/Josean/Scripts/Django/demo-wallet/readme.md",
 		"/home/Josean/Scripts/Django/Jesus/Constancia/.gitignore",
@@ -797,12 +791,11 @@
 		"/home/josean/Scripts/Django/Django_React_todo/frontend/src/package.json",
 		"/home/jamartinez/Scripts/Django/stellar-anchor/Documentation/Access Control.txt",
 		"/home/jamartinez/Escritorio/Polaris/core/dashboard/apps.py",
-		"/home/jamartinez/Escritorio/Polaris/core/dashboard/myuser/apps.py",
-		"/home/jamartinez/Escritorio/Polaris/config/settings/production.py"
+		"/home/jamartinez/Escritorio/Polaris/core/dashboard/myuser/apps.py"
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -1095,20 +1088,20 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Projectos.sublime-project",
+					"file": "/home/Josean/Scripts/Django/Documentation/Ancla_Alfred_USA/Stellar Polaris Producion para Testing.py",
 					"selected": true,
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 5538,
+						"buffer_size": 1169,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5232,
-								5232
+								111,
+								123
 							]
 						],
 						"settings":
@@ -1118,27 +1111,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										5533,
-										5534
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/square_bracket.png",
-										"region.bluish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										616,
-										617
-									]
 								},
 								"unmatched":
 								{
@@ -1146,21 +1124,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1171,21 +1134,36 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1202,12 +1180,10 @@
 								"bh_tag_close",
 								"bh_tag_content"
 							],
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 3300.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1219,7 +1195,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -1268,7 +1244,7 @@
 	"project": "Projectos.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
